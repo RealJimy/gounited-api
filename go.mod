@@ -1,4 +1,4 @@
-module github.com/RealJimy/gounited-api/grpc
+module github.com/RealJimy/gounited-api
 
 go 1.19
 
